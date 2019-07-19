@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Asg5_mxd120830\Asg5_mxd120830\bin\Debug\Asg5_mxd120830.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Asg5_mxd120830\Asg5_mxd120830\bin\Debug\Asg5_mxd120830.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Asg5_mxd120830\Asg5_mxd120830\bin\Debug\Asg5_mxd120830.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Asg5_mxd120830\Asg5_mxd120830\obj\Debug\Asg5_mxd120830.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Asg5_mxd120830\Asg5_mxd120830\obj\Debug\Asg5_mxd120830.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Asg5_mxd120830\Asg5_mxd120830\obj\Debug\Asg5_mxd120830.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Asg5_mxd120830\Asg5_mxd120830\obj\Debug\Asg5_mxd120830.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Asg5_mxd120830\Asg5_mxd120830\obj\Debug\Asg5_mxd120830.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Asg5_mxd120830\Asg5_mxd120830\obj\Debug\Asg5_mxd120830.MultiThreaded_Text_Search.resources
+C:\Users\User\Documents\CS 6326 - Human Computer Interations\CS6326_DelRosarioMichae_lAssgn5\Asg5_mxd120830\Asg5_mxd120830\bin\Debug\Asg5_mxd120830.exe.config
+C:\Users\User\Documents\CS 6326 - Human Computer Interations\CS6326_DelRosarioMichae_lAssgn5\Asg5_mxd120830\Asg5_mxd120830\obj\Debug\Asg5_mxd120830.exe
+C:\Users\User\Documents\CS 6326 - Human Computer Interations\CS6326_DelRosarioMichae_lAssgn5\Asg5_mxd120830\Asg5_mxd120830\obj\Debug\Asg5_mxd120830.pdb
